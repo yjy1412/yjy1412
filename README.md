@@ -1,8 +1,17 @@
-### Hi there 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyjy1412&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Gmail Badge](https://img.shields.io/badge/yjy852@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yjy852@gmail.com)](mailto:yjy852@gmail.com)
 
-<h3 align="center"> 🛠 Tech Stack 🛠 </h3>
-<p align="center"> Techs that I've used at least once </p>
-<p align="center">
+👋 Hello! My name is Jinyeong Yang who is interested in **software engineering** from South Korea. </br>
+My major is **management**. and I've been studying software engineering since 2021. </br>
+If you want to contact me, please leave me a message!
+
+<h4> ⭐️ Experience </h4>
+<p>
+  2021.07- 2021.12 : Codestates software engineering bootcamp(33th)
+
+<h4> 🛠 Tech Stack </h4>
+<p> Techs that I've used at least once </p>
+<p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
