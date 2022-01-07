@@ -9,6 +9,7 @@ If you want to contact me, please leave me a message!
 <h4> ⭐️ Experience </h4>
 <p>
   2021.07- 2021.12 : Codestates software engineering bootcamp(33th)
+</p>
 
 <h4> 🛠 Tech Stack </h4>
 <p> Techs that I've used at least once </p>
@@ -21,6 +22,9 @@ If you want to contact me, please leave me a message!
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>  
 </p>
+
+<h4> 🏫 Education </h4>
+<p> 2012.03-2018.08 : Pusan National University </p>
 
 <!--
 **yjy1412/yjy1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
