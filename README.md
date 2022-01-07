@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/yjy852@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yjy852@gmail.com)](mailto:yjy852@gmail.com)
 
 👋 Hello! My name is Jinyeong Yang who is interested in **software engineering** from South Korea. </br>
-My major is **management**. and I've been studying software engineering since 2021. </br>
+My major is **Business Administration**. and I've been studying software engineering since 2021. </br>
 If you want to contact me, please leave me a message!
 
 <h4> ⭐️ Experience </h4>
