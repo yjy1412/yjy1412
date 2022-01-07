@@ -1,8 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyjy1412&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Blog Badge](http://img.shields.io/badge/Blog-000000?style=flat-square&logo=Notion&link=https://www.notion.so/s-Home-f10ed2b0a851431cbbcc7a0870223a5a/)](https://www.notion.so/s-Home-f10ed2b0a851431cbbcc7a0870223a5a/)
+[![Blog Badge](http://img.shields.io/badge/aboutme-000000?style=flat-square&logo=Notion&link=https://www.notion.so/Bothsides-9e59d10de8734cafa0b457709d452c09/)](https://www.notion.so/Bothsides-9e59d10de8734cafa0b457709d452c09/)
 [![Gmail Badge](https://img.shields.io/badge/yjy852@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yjy852@gmail.com)](mailto:yjy852@gmail.com)
-
-https://www.notion.so/s-Home-f10ed2b0a851431cbbcc7a0870223a5a
 
 👋 Hello! My name is Jinyeong Yang who is interested in **software engineering** from South Korea. </br>
 My major is **management**. and I've been studying software engineering since 2021. </br>
