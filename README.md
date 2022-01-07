@@ -24,8 +24,9 @@ If you want to contact me, please leave me a message!
 </p>
 
 <h4> 🏫 Education </h4>
-<p> 2012.03-2018.08 : Pusan National University </p>
+<p>2012.03-2018.08 : Pusan National University, Major in Business Administration. </p>
 
+![yjy1412's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjy1412&show_icons=true&theme=radical)
 <!--
 **yjy1412/yjy1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
