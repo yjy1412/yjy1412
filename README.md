@@ -8,7 +8,7 @@ If you want to contact me, please leave me a message!
 
 <h4> ⭐️ Experience </h4>
 <p>
-  2021.07- 2021.12 : Codestates software engineering bootcamp(33th)
+  2021.07- 2021.12 : Codestates Software Engineering Bootcamp(SEB 33th)
 </p>
 
 <h4> 🛠 Tech Stack </h4>
