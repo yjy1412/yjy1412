@@ -9,7 +9,8 @@ If you want to contact me, please leave me a message!
 <h4> More about me. Please come visit my blog(https://curvy-clerk-524.notion.site/s-Home-f10ed2b0a851431cbbcc7a0870223a5a) </h4>
 <h4> ⭐️ Experience </h4>
 <p>
-  2021.07- 2021.12 : Codestates Software Engineering Bootcamp(SEB 33th)
+  2021.07 - 2021.12 : Codestates Software Engineering Bootcamp(SEB 33th)
+  2022.04 - 2024.06 : Barogo
 </p>
 
 <h4> 🛠 Tech Stack </h4>
